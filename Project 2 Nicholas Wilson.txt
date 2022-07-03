@@ -1,0 +1,19 @@
+The calculator shall have a way to output to the user
+
+The calculator shall have a method of inputting numbers and operations (such as addition, subtraction)
+
+The calculator shall start with a cleared memory to ensure no previous data interferes with current calculations
+
+The calculator shall allow the user to perform addition of two different numbers of appropriate data types (integer, float, double)
+
+The calculator shall return and display an appropriate data type
+
+The calculator shall allow the user to perform subtraction of two different numbers of appropriate data types (integer, float, double)
+
+The calculator shall allow the user to perform multiplication of two different numbers of appropriate data types (integer, float, double)
+
+The calculator shall allow the user to perform division of two different numbers of appropriate data types (integer, float, double)
+
+The calculator shall allow the user to clear the memory of the calculator
+
+The calculator shall keep the last result in memory unless otherwise cleared to be used for future operations
